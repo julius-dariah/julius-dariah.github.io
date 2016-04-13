@@ -1,0 +1,4 @@
+Sitemap: http://julius-dariah.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: julius-dariah.github.io
